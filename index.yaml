@@ -3,6 +3,16 @@ entries:
   kubephp:
   - apiVersion: v2
     appVersion: 1.16.3
+    created: "2022-01-27T19:21:53.999090576Z"
+    description: A Helm chart for Kubernetes created using kubephp
+    digest: d87019b6d64fbb7e45f95ed6d480511a94b86b6c8e27e95a553088fb9486aa19
+    name: kubephp
+    type: application
+    urls:
+    - https://github.com/EHER/glowing-octo-couscous/releases/download/kubephp-0.1.3/kubephp-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.3
     created: "2022-01-27T18:44:49.999562647Z"
     description: A Helm chart for Kubernetes created using kubephp
     digest: 2a2a2ab17c3e36da59ec27a6bb1f61287a830d1f4257bb122b58d92673d08b06
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/EHER/glowing-octo-couscous/releases/download/kubephp-0.1.1/kubephp-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-27T18:44:49.999569747Z"
+generated: "2022-01-27T19:21:53.999129276Z"
